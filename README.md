@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Atlas School as a Full Stack student. I am working towards becoming a junior developer. 
+Full Stack Developer student @ Atlas School | Leveraging 6+ years of IT operations and project management experience to build efficient, scalable web applications | Proficient in Python, JavaScript, and modern development frameworks.
 
 
 ## 🌐 Socials:
